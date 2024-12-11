@@ -22,3 +22,24 @@ The number of IoT devices continues to grow, and many of these devices lack adeq
 **Key Mitigation Strategies**
 
 It contains the document to mitigatet hese risks
+
+
+**Usage**
+This repository is intended for cybersecurity professionals, DevOps teams, and security-conscious organizations seeking to improve their defense mechanisms against the latest cyber threats. You can use the provided information to:
+
+Stay updated on emerging cyber threats and attack methods.
+Educate your team and organization about the latest cybersecurity risks.
+Implement effective defenses and strategies against evolving threats.
+
+**Contributing**
+We welcome contributions from the community. If you have additional insights, resources, or mitigation strategies to share, feel free to open a pull request. Please adhere to the following guidelines:
+
+Ensure that any changes you propose are aligned with the current structure and format of the repository.
+Provide clear explanations and references for any new additions or changes.
+Test any solutions or recommendations to ensure their practicality.
+
+**License**
+This repository is licensed under the MIT License. See the LICENSE file for more information.
+
+**Support**
+If you have any questions, suggestions, or issues, please feel free to open an issue in the repository. We will address it as soon as possible.
